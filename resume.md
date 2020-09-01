@@ -1,13 +1,13 @@
 # Ciara Fogarty
-######6824 Salem Quarter Rd. Belews Creek, NC 27009
-######(336)529-8626
-######fogartycb@appstate.edu
+###### 6824 Salem Quarter Rd. Belews Creek, NC 27009
+###### (336)529-8626
+###### fogartycb@appstate.edu
 
-##Summary
+## Summary
 ----------
 I am a currently a senior at Appalachian State University.  I pursuing a BS degree in Geography with a concetration in GIS.  I am a student who has a good work ethic and is punctual.  I am detailed oriented and I am a team player.
 
-##Education
+## Education
 ---------
 * Appalachian State University, Boone, NC, USA- BS in Geography with a GIS concentration.
 -*Expected graduation date: August 2021*
@@ -16,7 +16,7 @@ I am a currently a senior at Appalachian State University.  I pursuing a BS degr
 * University College Cork, Ireland- Study abroad program
 -*September 2019-May 2020*
 
-##Skills
+## Skills
 ---------
 * Microsoft Word
 * Microsoft Excel
@@ -27,12 +27,12 @@ I am a currently a senior at Appalachian State University.  I pursuing a BS degr
 * R Studio
 * Landviewer
 
-##Awards
+## Awards
 ---------
 * Deans List 2017-2019
 * National Honors Society 2015-2017
 
-##Activities
+## Activities
 ---------
 * Child Advocacy Club 2017-2018
 * App State Club Cheer 2018-2019
