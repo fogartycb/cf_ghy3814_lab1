@@ -4,8 +4,8 @@
 
 ###### 6824 Salem Quarter Rd. Belews Creek, NC 27009
 ###### (336)529-8626
-###### [My email](fogartycb@appstate.edu)
-###### [My Linkedin](linkedin.com/in/ciara-fogarty-65307619a)
+###### fogartycb@appstate.edu
+###### My Linkedin: linkedin.com/in/ciara-fogarty-65307619a
 
 ## Summary
 ----------
