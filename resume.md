@@ -2,8 +2,6 @@
 
 ![image of me](professionalpic.jpg)
 
-  
-
 ###### 6824 Salem Quarter Rd. Belews Creek, NC 27009
 ###### (336)529-8626
 ###### fogartycb@appstate.edu
